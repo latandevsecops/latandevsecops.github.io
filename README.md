@@ -2,7 +2,6 @@
 ### Latino America [DevSecOps](https://www.devsecops.org/)
 
 
-
 ### Manifesto
 
 
