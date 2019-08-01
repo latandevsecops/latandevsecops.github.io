@@ -15,7 +15,7 @@ Nós não vamos esperar que nossas organizações sejam vítimas de erros e inva
   - **Pontuações de segurança** em vez de segurança sobre carimbos
   - **Red & Blue Team testando exploit** em vez de confiar em varreduras e vulnerabilidades teóricas
   - **Monitoramento de segurança proativo 24x7** em vez de reagir após ser informado de um incidente
-  - **Inteligência de ameaças compartilhadas** em vez de manutenção de informaçes para nós mesmos
+  - **Inteligência de ameaças compartilhadas** em vez de manutenção de informações para nós mesmos
   - **Operações de conformidade** em vez de pranchetas e listas de verificação
 
 <sub><sup>Traduzido do manifesto *devsecops* no dia 31/07/2019</sup></sub>
