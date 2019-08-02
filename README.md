@@ -1,5 +1,7 @@
 ## Manifesto
 
+[O que é DevSecOps?](blog/2019-08-01-what-is-devsecops.md)
+
 Por meio da *Security as Code*, vamos aprender que existe um caminho melhor para profissionais de segurança como nós, para operar e contribuir gerando valor e com menos desgaste. Sabemos que devemos adaptar nossos caminhos rapidamente e estimular a inovação para garantir que as questões de privacidade e segurança de dados não sejam deixadas para trás, isso porque demoramos muito para mudar. 
 
 Com o desenvolvimento do *Security as Code*, vamos se esforçar para criar produtos e serviços incríveis, provendo *insights* diretamente desenvolvedores, que geralmente ajudam na iteração ao inves de tentar sempre obter a melhor resposta antes de uma implantação. Vamos operar como desenvolvedores para disponibilizar segurança e conformidade para serem consumidos como serviços. Vamos desbloquear e bloquear novos caminhos para ajudar os outros a verem as suas ideias se tornarem realidade.
