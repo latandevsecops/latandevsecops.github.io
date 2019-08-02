@@ -1,8 +1,8 @@
 ## Manifesto
 
-Por meio da *Security as Code*, vamos aprender que existe um caminho melhor para profissionais de segurança, como nós, para operar e contribuir com valor e com menos desgaste. Sabemos que devemos adaptar nossos caminhos rapidamente e estimular a inovação para garantir que as questões de privacidade e segurança de dados não sejam deixadas para trás, isso porque demoramos muito para mudar. 
+Por meio da *Security as Code*, vamos aprender que existe um caminho melhor para profissionais de segurança como nós, para operar e contribuir gerando valor e com menos desgaste. Sabemos que devemos adaptar nossos caminhos rapidamente e estimular a inovação para garantir que as questões de privacidade e segurança de dados não sejam deixadas para trás, isso porque demoramos muito para mudar. 
 
-Com o desenvolvimento do *Security as Code*, vamos se esforçar para criar produtos e serviços incríveis, provendo conhecimento para desenvolvedores, e geralmente favorecem a iteração ao tentar sempre obter a melhor resposta antes de uma implantação. Vamos operar como desenvolvedores para disponibilizar segurança e conformidade para serem consumidos como serviços. Vamos desbloquear novos caminhos para ajudar os outros a verem as suas ideias se tornarem realidade.
+Com o desenvolvimento do *Security as Code*, vamos se esforçar para criar produtos e serviços incríveis, provendo *insights* diretamente desenvolvedores, que geralmente ajudam na iteração ao inves de tentar sempre obter a melhor resposta antes de uma implantação. Vamos operar como desenvolvedores para disponibilizar segurança e conformidade para serem consumidos como serviços. Vamos desbloquear e bloquear novos caminhos para ajudar os outros a verem as suas ideias se tornarem realidade.
 
 Nós não vamos simplesmente contar com *scanners* e relatórios para fazer um código melhor. Vamos atacar produtos e serviços como alguém de fora para ajudar você a defender o que você criou. Nós vamos aprender com as brechas, olhar as fraquezas, vamos trabalhar para prover ações de mitigação com longas listas de problemas para você resolver.
 
